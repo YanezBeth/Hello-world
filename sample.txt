@@ -1,2 +1,4 @@
 Week 4 is all about git and using github as a team. 
-More changes. 
+
+Some more changes for the stretch challenge.
+
