@@ -1,1 +1,1 @@
-Blah blah week 4
+Week 4 is all about git and using github as a team. 
